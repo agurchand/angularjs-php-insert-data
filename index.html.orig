@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="myApp">
 <head>
+<<<<<<< HEAD
   <title>Angular & PHP Tutorial - Theonlytutorials.com</title>
+=======
+  <title>Angular & PHP Tutorial by Agurchand</title>
+>>>>>>> 93db9e949e0723a3f0d5d5e1220daef887514a4f
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
